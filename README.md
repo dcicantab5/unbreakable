@@ -1,2 +1,2 @@
 # growth
-Simon Sinek Growth
+Growth
